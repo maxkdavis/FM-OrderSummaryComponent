@@ -1,6 +1,7 @@
 # Frontend Mentor - Order summary card
 
-##Live link to Order Summary Component: https://maxkdavis-order-summary-component.netlify.app/
+## Live link to Order Summary Component:
+https://maxkdavis-order-summary-component.netlify.app/
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
